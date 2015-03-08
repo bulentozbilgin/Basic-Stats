@@ -1,9 +1,9 @@
 # Basic-Stats
 parStats - Basic Statistics module
 
-parStats - Basic Statistics Module is a .NET Framework 3.5 based class library, containing high performance classes to perform basic statistics calculations. The package is about 300 kilobytes, and it can be distributed royalty-free with the client application.  For details on installation and registering your copy of parStats, please see Installation Instructions and Registration.  General use instructions are under Using parStats and Deployment.
+parStats - Basic Statistics Module is a .NET Framework 3.5 based class library written in C#, containing high performance classes to perform basic statistics calculations.  It is available under GNU Lesser GPL V3.0 license.
 
-The following gives a list of the main classes in parStats dll:
+The following gives a list of the main classes in Basic Stats:
 
 - Frequency class
 - CrossTab class
